@@ -1,8 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 @font-face {
-  font-family: "HelveticaNeueCyr";
+  font-family: 'HelveticaNeueCyr';
   src: url(../assets/fonts/helveticaneuecyr_roman.otf);
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -18,9 +20,3 @@ html {
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
-
-.conatiner {
-  width: 1440px;
-}
-
-/*# sourceMappingURL=style.css.map */
