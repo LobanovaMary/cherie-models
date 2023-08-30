@@ -1,0 +1,23 @@
+{
+  "name": "cherie-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass style/main.scss style.css",
+    "sass:watch": "sass style/main.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LobanovaMary/cherie-models.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LobanovaMary/cherie-models/issues"
+  },
+  "homepage": "https://github.com/LobanovaMary/cherie-models#readme",
+  "devDependencies": {
+    "sass": "^1.66.1"
+  }
+}
